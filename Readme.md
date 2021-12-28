@@ -1,4 +1,4 @@
-#Clear_the_Room
+# Clear_the_Room
 
 1. 방향키로 이동이 가능하다.
 2. 방에 들어가는건 위쪽 화살표이다.
